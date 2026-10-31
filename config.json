@@ -1,0 +1,18 @@
+{
+  "music_root": "/vol1/1000/音乐",
+  "level": "exhigh",
+  "renumber": "always",
+  "order": "auto",
+  "create_missing_dirs": false,
+  "dir_overrides": {
+    "LiWKKKK喜欢的音乐": "LiWKKKK喜欢的音乐",
+    "数学摇滚 | 让复杂的节拍溶解在晴空中.": "数学摇滚-让复杂的节拍溶解在晴空中",
+    "巴赫 | 织不朽哲思 奏十二律万象": "巴赫-织不朽哲思奏十二律万象",
+    "经典『神仙打架的华语乐坛』_华语经典歌": "经典神仙打架的华语乐坛"
+  },
+  "only_dirs": [],
+  "ncm_scan": true,
+  "ncm_archive": ".ncm_done",
+  "max_new_per_run": 0,
+  "concurrency": 4
+}
